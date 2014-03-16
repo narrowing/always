@@ -1,0 +1,1 @@
+web: mimosa watch --server

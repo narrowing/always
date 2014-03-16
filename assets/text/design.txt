@@ -1,0 +1,3 @@
+read through, paragraph is highlighted, can move left or right. hold shift for both, down to go to next, need better shortcuts. ee to escape "edfs" for up down left and right. maybe hold 9 also.
+
+select paragraph and multiple and puts in either "remember" or "bergonomics"

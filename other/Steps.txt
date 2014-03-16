@@ -1,0 +1,39 @@
+Steps
+
+Tasks:
+    Create video that gets me in the right mindset each morning
+    Create video for the first time ever using the site
+    Show me quotes throughout the day, anecdotes, secrets that are revealed little by little, as if I had a secret i was keeping
+    Plan out what I really want
+    Think of the small things I can add that will make it go a long way
+    Create functionality to save my data
+    Add sign in through facebook feature
+    Part that tells me how to live
+    Cut up music samples to use/repeat
+
+Thoughts:
+    like the best written novel, like Her, anonymously speaking to you
+    i could really have an impact on people
+    guy who makes really good music frames things well - the beauty inside
+        perhaps take slivers of it
+    don't play on people's heart strings just for the sake of it
+        feeling that way is the same as feeling any other way
+    if they just keep reloading page, coming from same page, stop showing them stuff. say to stop, they will exhuast it. treat it nicely
+    ...it should be entirely for mobile. i use mobile for a lot, but don't really go to safari all that much. usually use search of previous site
+    integrate qr codes that way, but cannot create app...
+    i'd like a browser version as well
+    if you do not enter tags, box will get larger on right side. maybe say "enter sesame"
+    
+Steps:
+    1. Create display text part
+          hide template for input
+          create new template for displaying
+          create json of quotes
+          have output call json in loop
+    2. Create toggle between two types
+          for now create simple keyboard command (just left and right arrows)
+              change mustache dynamically if possible
+    3. Create database to save
+          install mongodb
+    4. Create facebook integration
+    
